@@ -1,4 +1,6 @@
 # Udemy-PHP-Wordpress
+## IN PROGRESS
+
 :memo: PHP, JavaScript, WordPress theming &amp; the WP REST API
 
 https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/
